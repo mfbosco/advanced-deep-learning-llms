@@ -1,6 +1,6 @@
 # Aprendizado Profundo Avançado: LLMs e Agentes Inteligentes na Prática
 
-Este repositório contém materiais, exercícios e projetos desenvolvidos durante o curso de Aprendizado Profundo Avançado: LLMs e Agentes Inteligentes na Prática (IA368HH).
+Este repositório contém materiais, exercícios e projetos desenvolvidos durante o curso de Aprendizado Profundo Avançado: LLMs e Agentes Inteligentes na Prática (IA368HH) da FEEC Unicamp durante o segundo semestre de 2025.
 
 ## 📚 Sobre o Curso
 
