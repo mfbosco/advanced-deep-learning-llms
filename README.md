@@ -78,8 +78,9 @@ Sistemas multi-agentes:
 - Comunicação e colaboração
 - Arquiteturas distribuídas
 
-### [12. Projeto Final](12.%20Projeto%20Final/)
-Projeto de conclusão do curso aplicando os conhecimentos adquiridos.
+### [12. Projeto Final](https://github.com/GabrielCFreitas/multimodal-rag-med)
+Projeto de conclusão do curso aplicando os conhecimentos adquiridos com a contribuição de [@GabrielCFreitas](https://github.com/GabrielCFreitas).  
+O projeto escolhido foi o desenvolvimento de um sistema RAG Multimodal para imagens e textos médicos. O desenvolimento e resultados podem ser consultados no repositório [multimodal-rag-med](https://github.com/GabrielCFreitas/multimodal-rag-med).
 
 ## 🛠️ Tecnologias Utilizadas
 
