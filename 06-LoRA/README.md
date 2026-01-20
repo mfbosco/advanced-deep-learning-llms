@@ -7,7 +7,7 @@ Implementar e comparar **LoRA** (Low-Rank Adaptation) como técnica eficiente de
 ## Estrutura
 
 ```
-git/06-LoRA/
+06-LoRA/
 ├── exercicio_LoRA.ipynb      # Implementação LoRA
 └── comentario_LoRA.pdf       # Material complementar
 ```
