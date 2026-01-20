@@ -111,8 +111,3 @@ Advances in Neural Information Processing Systems (NIPS)
 - **Treinamento**: Apenas com versão matricial (eficiência)
 - **Comparação**: Modelo com/sem atenção
 - **Material de apoio**: PDF com resumo do paper original
-
-## 🔗 Arquivos do Projeto
-
-- `auto_atenção.ipynb` - Implementação completa
-- `comentario-resumo-attetion-is-all-you-need.pdf` - Resumo do paper
